@@ -17,3 +17,4 @@ class CinemaHall:
             print(f'{cus.name} is watching "{movie_name}".')
         print(f'"{movie_name}" ended.')
         cleaning_staff.clean_hall(self.number)
+        
